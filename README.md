@@ -1,4 +1,4 @@
-# Docker_Base_Ubuntu_Python3.8_TensorFlowServing
+# ubuntu-python38-tfserving
 
 ## Includes
 
